@@ -1,2 +1,2 @@
 # javascript
-Random JS code
+Code for some JS challenges

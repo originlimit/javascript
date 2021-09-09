@@ -1,3 +1,4 @@
+//feed this an empty array
 
 function fizzBuzz(ar){
     for(let i = 1; i <= 100; i++){
